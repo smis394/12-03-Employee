@@ -1,0 +1,9 @@
+student: Naman
+name: Naman wage: $9.0 hours: 40
+	weekly salary: $360.0
+	anual salary: $18720.0
+name: Susie wage: $11.0 hours: 42
+name: Mr. K wage: $3.0 hours: 2
+	weekly salary: $6.0
+	anual salary: $312.0
+name: Mr. K wage: $4.0 hours: 2
