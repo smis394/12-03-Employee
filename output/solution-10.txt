@@ -1,0 +1,9 @@
+Student: Tanvi
+name: Michael , hours: 12 , wage: 12.0
+	 weekly salary: 144.0
+	 annual salary: 7488.0
+name: Billbo , hours: 12 , wage: 12.0
+name: fred , hours: 2 , wage: 3.0
+	 weekly salary: 6.0
+	 annual salary: 312.0
+name: fred , hours: 2 , wage: 4.0
